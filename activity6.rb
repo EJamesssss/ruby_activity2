@@ -9,7 +9,6 @@ def smallest(arr)
         end
 
     end
-    # return index
     puts index
 end
 
