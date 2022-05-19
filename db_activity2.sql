@@ -1,4 +1,4 @@
-SELECT COUNT(*) FROM students;
+SELECT COUNT(*) AS total_student_count FROM students;
 
 SELECT * FROM students WHERE location = 'Manila';
 
